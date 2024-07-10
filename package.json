@@ -16,7 +16,6 @@
     "electron-serve": "^1.3.0",
     "electron-store": "^8.2.0",
     "file-saver": "^2.0.5",
-    "fs": "^0.0.1-security",
     "xlsx": "^0.18.5"
   },
   "devDependencies": {
